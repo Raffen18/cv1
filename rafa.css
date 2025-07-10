@@ -167,7 +167,7 @@
         }
         
         .project-links a {
-            color: white;
+            color: cyan;
             background: var(--primary);
             padding: 5px 12px;
             border-radius: 5px;
